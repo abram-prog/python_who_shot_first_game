@@ -18,3 +18,15 @@ The position of the word `Bang` in each string determines who shot first.
 ## 🚀 How to Run
 ```bash
 python who_shot_first.py
+
+---
+
+## Example
+
+🔫 Who Shot First? Game
+Type the moment when your shot happens. Use spaces before 'Bang' to delay your shot.
+
+Player 1, enter your shot:     Bang!
+Player 2, enter your shot:  Bang!
+
+💥 Player 2 shot first!
